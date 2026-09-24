@@ -1,7 +1,7 @@
 # Optimizing Stock Trading Strategy with K-Means Clustering
 
 Big Data Analytics mini project — Department of Computer Engineering,
-Atharva College of Engineering, University of Mumbai.
+
 
 Companies are grouped by the **pattern of their daily price movement** rather
 than by sector label. The algorithm is given nothing but the difference between
